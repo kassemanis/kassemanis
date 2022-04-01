@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kassem Anis</h1>
 <h3 align="center">A passionate developer from Algeria</h3>
 
+<p align="left"> <img src="https://i.ibb.co/9gPFfHD/mybanner.png" alt="kassemanis" /> </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kassemanis&label=Profile%20views&color=0e75b6&style=flat" alt="kassemanis" /> </p>
 
 - 📫 How to reach me **kassemanis.bouali@univ-khenchela.dz**
