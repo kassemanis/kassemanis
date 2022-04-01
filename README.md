@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kassem Anis
 #### I am Computer Science student.
-![I am Computer Science student.]
+
 (https://i.ibb.co/9gPFfHD/mybanner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
