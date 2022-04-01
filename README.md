@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://serving.photos.photobox.com/32180046141412040045dc18874d3c63c96704d2fe76eb66bbaea5131c3ffc457fb7818a.jpg" alt="kassemanis" /> </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kassemanis&label=Profile%20views&color=0e75b6&style=flat" alt="kassemanis" /> </p>
-
 - 📫 How to reach me **kassemanis.bouali@univ-khenchela.dz**
 
 <h3 align="left">Connect with me:</h3>
