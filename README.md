@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kassem Anis</h1>
 <h3 align="center">A passionate developer from Algeria</h3>
 
-<p align="left"> <img src="https://serving.photos.photobox.com/32180046141412040045dc18874d3c63c96704d2fe76eb66bbaea5131c3ffc457fb7818a.jpg" alt="kassemanis" /> </p>
+<p align="left"> <img src="banner1.png" alt="kassemanis" /> </p>
 
 - 📫 How to reach me **kassemanis.bouali@mailbox.unideb.hu**
 
