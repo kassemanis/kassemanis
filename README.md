@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="banner1.png" alt="kassemanis" /> </p>
 
-- 📫 How to reach me **kassemanis.bouali@mailbox.unideb.hu**
+- 📫 How to reach me **kassemanis@cgg.mff.cuni.cz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
