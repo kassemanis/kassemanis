@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kassem Anis</h1>
-<h3 align="center">A passionate developer from Algeria</h3>
+<h3 align="center">I am currently pursing a PhD in CompSci</h3>
 
 <p align="left"> <img src="banner1.png" alt="kassemanis" /> </p>
 
